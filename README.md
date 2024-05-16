@@ -24,6 +24,7 @@
  ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
  ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
  ![Postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
+ ![Robot](https://img.shields.io/badge/-Robot%20Framework-0D1117?style=for-the-badge&logo=robot-framework&labelColor=0D1117)&nbsp;
 <br>
 Gerenciamento de Projetos
   <br>
