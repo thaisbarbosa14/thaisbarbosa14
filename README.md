@@ -5,9 +5,10 @@
 ## 💜 Sobre mim
 
 - 🎓 Sou formada em Análise e Desenvolvimento de Sistemas;
+- 👩‍💻 Em busca de uma nova colocação profissional como Quality Assurance. 
 - 💻 Estou aprimorando minhas habilidades em automação de testes;
 - 🚀 Aprendendo : Robot Framework; 
-- 😊 Pronomes : Ela/Dela.
+  
 
  ## 💫 Estatísticas do GitHub
   
